@@ -1,4 +1,5 @@
 GEM-metrics
+NLG 自动生成的评价方法
 ===========
 Automatic metrics for GEM benchmark tasks. Can also be used standalone for evaluation of various natural 
 language generation tasks.
